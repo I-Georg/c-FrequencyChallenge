@@ -1,0 +1,11 @@
+C:\Users\UseR\source\repos\frequencycode\bin\Debug\netcoreapp3.1\frequencycode.exe
+C:\Users\UseR\source\repos\frequencycode\bin\Debug\netcoreapp3.1\frequencycode.deps.json
+C:\Users\UseR\source\repos\frequencycode\bin\Debug\netcoreapp3.1\frequencycode.runtimeconfig.json
+C:\Users\UseR\source\repos\frequencycode\bin\Debug\netcoreapp3.1\frequencycode.runtimeconfig.dev.json
+C:\Users\UseR\source\repos\frequencycode\bin\Debug\netcoreapp3.1\frequencycode.dll
+C:\Users\UseR\source\repos\frequencycode\bin\Debug\netcoreapp3.1\frequencycode.pdb
+C:\Users\UseR\source\repos\frequencycode\obj\Debug\netcoreapp3.1\frequencycode.csprojAssemblyReference.cache
+C:\Users\UseR\source\repos\frequencycode\obj\Debug\netcoreapp3.1\frequencycode.AssemblyInfoInputs.cache
+C:\Users\UseR\source\repos\frequencycode\obj\Debug\netcoreapp3.1\frequencycode.AssemblyInfo.cs
+C:\Users\UseR\source\repos\frequencycode\obj\Debug\netcoreapp3.1\frequencycode.dll
+C:\Users\UseR\source\repos\frequencycode\obj\Debug\netcoreapp3.1\frequencycode.pdb
